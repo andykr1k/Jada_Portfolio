@@ -14,12 +14,12 @@ function Header() {
     </div> 
     <div className="drawer-side">
         <label htmlFor="my-drawer-4" className="drawer-overlay"></label>
-        <ul className="menu p-4 w-80 md:w-120 space-y-2 h-120 bg-base-200 text-base-content rounded-lg">
+        <ul className="menu p-4 w-80 md:w-120 space-y-2 max-h-120 bg-base-200 text-base-content rounded-lg">
         <li><a className="text-lg md:text-xl" href="#about">Jada Ganim</a></li>
         <li><a className="text-lg md:text-xl" href="#films">Written & Directed</a></li>
         <li><a className="text-lg md:text-xl" href="#assisted">Produced & Assistant Directed</a></li>
         <li><a className="text-lg md:text-xl" href="#contact">Contact</a></li>
-        <li className="grid grid-cols-3"><a className="flex items-center justify-center"  href="https://www.instagram.com/jadaganim" target="__blank" ><AiOutlineInstagram size='2em'/></a><a className="flex items-center justify-center" href="https://www.linkedin.com/in/jada-ganim" target="__blank"><AiOutlineLinkedin size='2em'/></a><a className="flex items-center justify-center" href="https://www.youtube.com/jadaganim" target="__blank"><AiOutlineYoutube size='2em'/></a></li>
+        <li className="grid grid-cols-3 max-h-10"><a className="flex items-center justify-center"  href="https://www.instagram.com/jadaganim" target="__blank" ><AiOutlineInstagram size='2em'/></a><a className="flex items-center justify-center" href="https://www.linkedin.com/in/jada-ganim" target="__blank"><AiOutlineLinkedin size='2em'/></a><a className="flex items-center justify-center" href="https://www.youtube.com/jadaganim" target="__blank"><AiOutlineYoutube size='2em'/></a></li>
         </ul>
     </div>
     </div>
