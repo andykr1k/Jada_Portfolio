@@ -1,7 +1,26 @@
 import { motion } from "framer-motion"
 import movies from '../data/Movies.json'
+import * as React from 'react'
+import { Client } from "@notionhq/client";
 
 function FilmSpotlight() {
+  const notion = new Client({ auth: 'secret_nLXLVBBYUcyOepiWpB3XofFoU6r2ucuqfHpwnkHXy0j' });
+  const databaseId = 'ffe6884e2c9f40cf94ebabe1f68713a9?v=554c90cc130f4c88ae92e16e2a1a540f'
+
+  React.useEffect(() => {
+    (async () => {
+      let headers = new Headers();
+
+      headers.append('Content-Type', 'application/json');
+      headers.append('Accept', 'application/json');
+      headers.append('Origin','http://localhost:5173');
+      headers.append('Access-Control-Allow-Origin', 'http://localhost:5173');
+      headers.append('Access-Control-Allow-Credentials', 'true');
+
+      const response = await notion.databases.retrieve(headers=headers,{ database_id: databaseId });
+      console.log(response);
+    })();
+  }, [])
   return (
     <div id="films" className="grid place-items-center space-y-5 p-24 pt-10">
       <h1 className='pb-5 font-bold text-3xl flex justify-center text-center'>Written & Directed</h1>
