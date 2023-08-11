@@ -12,10 +12,10 @@ function Contact() {
               <div className="flex justify-center">
                     <a
                     type="submit"
-                    href="sms:+16502889490"
+                    href="https://ig.me/m/jadaganim"
                     className="w-full rounded-lg btn btn-primary font-medium text-white sm:w-auto"
                     >
-                    Send Text
+                    Send me a DM
                     </a>
                 </div>
                 <div className="flex justify-center">
@@ -24,7 +24,7 @@ function Contact() {
                     href="mailto:jadaganim@gmail.com"
                     className="w-full rounded-lg btn btn-primary font-medium text-white sm:w-auto"
                     >
-                    Send Email
+                    Send me an Email
                     </a>
                 </div>
             </div>
