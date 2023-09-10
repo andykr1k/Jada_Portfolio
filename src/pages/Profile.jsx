@@ -6,7 +6,7 @@ function Profile() {
     <div id='about' className="grid place-content-center h-screen p-16 lg:p-24">
         <div className="grid lg:grid-cols-2">
             <div className="flex justify-center pt-5 md:pt-0">
-                <img width={600} src="./jadaPic.jpg" />
+                <img width={600} src="./jadaPic.jpg" className="rounded-xl" />
             </div>
             <div className="grid place-items-center">
                 <div className="space-y-3 p-6">
