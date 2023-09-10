@@ -22,7 +22,7 @@ function Assisted() {
             className="absolute inset-0 flex justify-center items-center z-10 opacity-0 transition-opacity duration-300 bg-black bg-opacity-60 rounded-xl"
             whileHover={{ opacity: 1 }}
           >
-            <h1 className="font-bold text-lg md:text-5xl text-white">{item.movieName}</h1>
+            <h1 className="flex justify-center text-center font-bold text-lg md:text-5xl text-white">{item.movieName}</h1>
           </motion.div>
         </motion.a>
           )}
