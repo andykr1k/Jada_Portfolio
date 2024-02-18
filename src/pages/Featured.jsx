@@ -27,13 +27,16 @@ function Featured() {
         </motion.a>
         <div className="grid place-items-center">
           <div className="space-y-3 p-6">
-            <h1 className="flex justify-center text-center text-xl md:text-3xlfont-bold">
-              COMING SOON
+            <h1 className="flex justify-center text-center text-xl md:text-3xl font-bold">
+              No Mercy In The Kingdom
             </h1>
+            <h2 className="flex justify-center text-center text-xl md:text-xl font-bold">
+              COMING SOON
+            </h2>
             <div className="flex justify-center text-center space-x-3">
-              <h2 className="text-md md:text-xl font-semibold">
+              <h3 className="text-md md:text-xl font-semibold">
                 Written & Directed By Jada Ganim
-              </h2>
+              </h3>
             </div>
             <h3 className="flex items-center text-xs md:text-lg text-center">
               Two weeks before opening, a film director is hired to direct a
