@@ -5,7 +5,7 @@ function Assisted() {
   return (
     <div
       id="assisted"
-      className="grid place-content-center h-screen px-12 lg:px-24"
+      className="grid place-content-center h-100dvh px-12 lg:px-24"
     >
       <h1 className="pb-5 font-bold text-3xl flex justify-center text-center">
         COMMERCIAL
