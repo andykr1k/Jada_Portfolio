@@ -1,4 +1,4 @@
-import { Contact, FilmSpotlight, Assisted, Profile } from './pages'
+import { Contact, FilmSpotlight, Assisted, Profile, Featured } from './pages'
 import { Header } from './components'
 import './index.css'
 
@@ -9,6 +9,7 @@ function App() {
         <Header />
       </div>
       <Profile />
+      <Featured />
       <FilmSpotlight />
       <Assisted />
       <Contact />

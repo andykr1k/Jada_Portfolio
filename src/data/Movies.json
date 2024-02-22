@@ -1,32 +1,38 @@
 [
-{
-"movieName": "Sweet Dreams Of A California Summer",
-"movieEmbedURL": "https://www.youtube.com/embed/wolixDx71ws",
-"movieImageName": "sdoacs.png",
-"movieYTURL": "https://www.youtube.com/watch?v=wolixDx71ws"
-},
-{
-"movieName": "Addicted",
-"movieURL": "https://www.youtube.com/embed/ET6b-BZxuJ4",
-"movieImageName": "ADDICTED.png",
-"movieYTURL": "https://www.youtube.com/watch?v=ET6b-BZxuJ4"
-},
-{
-"movieName": "The House On The Hill",
-"movieURL": "https://www.youtube.com/embed/LSjTJlUZkLY",
-"movieImageName": "THOTH.png",
-"movieYTURL": "https://www.youtube.com/watch?v=LSjTJlUZkLY"
-},
-{
-"movieName": "The Girl Who Cried Wolf",
-"movieURL": "https://www.youtube.com/embed/KE_BcgLUi58",
-"movieImageName": "TGWCW.png",
-"movieYTURL": "https://www.youtube.com/watch?v=KE_BcgLUi58"
-},
-{
-"movieName": "Best Part",
-"movieURL": "https://www.youtube.com/embed/l10-ocIJxzw",
-"movieImageName": "bestpart.png",
-"movieYTURL": "https://www.youtube.com/watch?v=l10-ocIJxzw"
-}
+  {
+    "movieName": "Can You Ever Forgive Me?",
+    "movieEmbedURL": "https://www.youtube.com/embed/qQbgvxAUlcw",
+    "movieImageName": "CYEFM.png",
+    "movieYTURL": "https://www.youtube.com/watch?v=qQbgvxAUlcw&ab_channel=JadaGanim"
+  },
+  {
+    "movieName": "The Girl Who Cried Wolf",
+    "movieURL": "https://www.youtube.com/embed/KE_BcgLUi58",
+    "movieImageName": "TGWCW.png",
+    "movieYTURL": "https://www.youtube.com/watch?v=KE_BcgLUi58"
+  },
+  {
+    "movieName": "Loli and Momi",
+    "movieURL": "",
+    "movieImageName": "LoliMomi.jpg",
+    "movieYTURL": "https://www.imdb.com/title/tt30310899/?ref_=fn_al_tt_1"
+  },
+  {
+    "movieName": "Sweet Dreams Of A California Summer",
+    "movieEmbedURL": "https://www.youtube.com/embed/wolixDx71ws",
+    "movieImageName": "SDOACS.png",
+    "movieYTURL": "https://www.youtube.com/watch?v=wolixDx71ws"
+  },
+  {
+    "movieName": "The House On The Hill",
+    "movieURL": "https://www.youtube.com/embed/LSjTJlUZkLY",
+    "movieImageName": "HOTH.png",
+    "movieYTURL": "https://www.youtube.com/watch?v=LSjTJlUZkLY"
+  },
+  {
+    "movieName": "Addicted",
+    "movieURL": "https://www.youtube.com/embed/ET6b-BZxuJ4",
+    "movieImageName": "addicted.png",
+    "movieYTURL": "https://www.youtube.com/watch?v=ET6b-BZxuJ4"
+  }
 ]

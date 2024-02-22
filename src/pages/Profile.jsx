@@ -1,24 +1,27 @@
-import { motion } from "framer-motion"
-import { BsDot } from 'react-icons/bs'
+import { motion } from "framer-motion";
+import { BsDot } from "react-icons/bs";
 
 function Profile() {
   return (
-    <div id="about" className="grid place-content-center h-screen p-16 lg:p-24">
+    <div
+      id="about"
+      className="grid place-content-center h-screen px-12 lg:px-24"
+    >
       <div className="grid lg:grid-cols-2">
-        <div className="flex justify-center pt-20 md:pt-0">
-          <img className="w-64 md:w-96" src="./jadaPic.jpg" />
+        <div className="flex justify-center">
+          <img className="w-40 md:w-96 rounded-xl" src="./jadaPic.jpg" />
         </div>
         <div className="grid place-items-center">
           <div className="space-y-3 p-6">
-            <h1 className="flex justify-center text-center text-3xl font-bold">
+            <h1 className="flex justify-center text-center text-xl md:text-3xl font-bold">
               Jada Ganim
             </h1>
             <div className="flex justify-center text-center space-x-3">
-              <h2 className="text-xl font-semibold">
+              <h2 className="text-md md:text-xl font-semibold">
                 Co-Founder and Head of Production at FutureMade Films{" "}
               </h2>
             </div>
-            <h3 className="flex items-center text-sm md:text-lg text-center">
+            <h3 className="flex items-center text-xs md:text-lg text-center">
               Having grown up using movies as a place to feel seen and less
               alone, I have developed a want to share diverse stories of people
               who come from all walks of life through their own experiences,
@@ -34,4 +37,4 @@ function Profile() {
   );
 }
 
-export default Profile
+export default Profile;

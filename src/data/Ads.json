@@ -1,26 +1,38 @@
 [
-    {
+  {
+    "movieName": "Apple Airpods Pro (Spec)",
+    "movieEmbedURL": "",
+    "movieImageName": "AppleSpec.jpg",
+    "movieYTURL": "https://www.youtube.com/watch?v=uRjG42sw-TU&ab_channel=FutureMadeFilms"
+  },
+  {
+    "movieName": "Taylor Morrison: Real Talk",
+    "movieEmbedURL": "",
+    "movieImageName": "TayMo.png",
+    "movieYTURL": "https://youtu.be/TjeplyHAJRk"
+  },
+  {
     "movieName": "Robo and Kala",
     "movieEmbedURL": "https://www.youtube.com/embed/QGh15N8Mxwc",
     "movieImageName": "robo.jpg",
     "movieYTURL": "https://youtu.be/QGh15N8Mxwc"
-    },
-    {
-    "movieName": "Mentone",
-    "movieEmbedURL": "https://www.youtube.com/embed/zr9dEFEgKBg",
-    "movieImageName": "Mentone.png",
-    "movieYTURL": "https://www.youtube.com/watch?v=zr9dEFEgKBg"
-    },
-    {
-    "movieName": "AR-115",
-    "movieEmbedURL": "https://www.youtube.com/embed/zr9dEFEgKBg",
-    "movieImageName": "AR-115.jpeg",
-    "movieYTURL": "https://www.youtube.com/watch?v=zr9dEFEgKBg"
-    },
-    {
-    "movieName": "Loli and Momi",
-    "movieEmbedURL": "https://www.youtube.com/embed/zr9dEFEgKBg",
-    "movieImageName": "loli.jpg",
-    "movieYTURL": "https://www.youtube.com/watch?v=zr9dEFEgKBg"
-    }
+  },
+  {
+    "movieName": "California Lottery: Lucha (SuperBowl 2024)",
+    "movieEmbedURL": "",
+    "movieImageName": "CALott.png",
+    "movieYTURL": "https://www.youtube.com/watch?v=ldH3eYIMTVo"
+  },
+  {
+    "movieName": "AMPM: Toomgis",
+    "movieEmbedURL": "",
+    "movieImageName": "toomgis.png",
+    "movieYTURL": "https://www.tiktok.com/@ampm_official/video/7334798401424543022"
+  },
+  {
+    "movieName": "Lenovo Legion Gaming",
+    "movieEmbedURL": "",
+    "movieImageName": "Legion.png",
+    "movieYTURL": ""
+  }
 ]

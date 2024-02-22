@@ -4,33 +4,36 @@ import { motion } from "framer-motion"
 
 function Contact() {
   return (
-    <div id="contact" className="grid place-items-center space-y-5 p-5 h-screen">
-        <div className="mx-auto max-w-screen-xl">
-        <h1 className='pb-10 font-bold text-3xl flex justify-center'>Contact Me!</h1>
-
-            <div className="rounded-lg bg-white p-8 shadow-lg lg:col-span-3 lg:p-12 justify-center space-y-2">
-              <div className="flex justify-center">
-                    <a
-                    type="submit"
-                    href="https://ig.me/m/jadaganim"
-                    className="w-full rounded-lg btn btn-primary font-medium text-white sm:w-auto"
-                    >
-                    Send me a DM
-                    </a>
-                </div>
-                <div className="flex justify-center">
-                    <a
-                    type="submit"
-                    href="mailto:jadaganim@gmail.com"
-                    className="w-full rounded-lg btn btn-primary font-medium text-white sm:w-auto"
-                    >
-                    Send me an Email
-                    </a>
-                </div>
-            </div>
+    <div
+      id="contact"
+      className="grid place-items-center space-y-5 px-5 h-screen"
+    >
+      <div className="mx-auto max-w-screen-xl">
+        <div className="flex justify-center">
+          <img className="w-64 md:w-96 rounded-xl" src="./jadalastpage.jpg" />
         </div>
+
+        <div>
+          <div className="flex justify-center space-x-2 pt-4">
+            <a
+              type="submit"
+              href="https://ig.me/m/jadaganim"
+              className="rounded-lg btn btn-primary font-medium text-stone-600 hover:text-white bg-white w-auto"
+            >
+              Send me a DM
+            </a>
+            <a
+              type="submit"
+              href="mailto:jadaganim@gmail.com"
+              className="rounded-lg btn btn-primary font-medium text-stone-600 hover:text-white bg-white w-auto"
+            >
+              Send me an Email
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
-  )
+  );
 }
 
 export default Contact
