@@ -21,6 +21,7 @@ function Assisted() {
           >
             <motion.img
               className="w-54 h-30 md:w-96 md:h-54 rounded-xl"
+              loading="lazy"
               src={`../${item.movieImageName}`}
             />
 

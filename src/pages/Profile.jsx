@@ -9,7 +9,11 @@ function Profile() {
     >
       <div className="grid lg:grid-cols-2">
         <div className="flex justify-center">
-          <img className="w-40 md:w-96 rounded-xl" src="./jadaPic.jpg" />
+          <img
+            className="w-40 md:w-96 rounded-xl"
+            loading="lazy"
+            src="./jadaPic.jpg"
+          />
         </div>
         <div className="grid place-items-center">
           <div className="space-y-3 p-6">

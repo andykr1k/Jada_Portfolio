@@ -4,7 +4,10 @@ import * as React from "react";
 
 function FilmSpotlight() {
   return (
-    <div id="films" className="grid place-content-center h-screen px-12 lg:px-24">
+    <div
+      id="films"
+      className="grid place-content-center h-screen px-12 lg:px-24"
+    >
       <h1 className="pb-5 font-bold text-3xl flex justify-center text-center">
         NARRATIVE
       </h1>
@@ -19,6 +22,7 @@ function FilmSpotlight() {
           >
             <motion.img
               className="w-54 h-30 md:w-96 md:h-54 rounded-xl"
+              loading="lazy"
               src={`../${item.movieImageName}`}
             />
 

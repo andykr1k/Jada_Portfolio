@@ -19,7 +19,11 @@ function Featured() {
           href="https://www.imdb.com/title/tt29898902/?ref_=nv_sr_srsg_0_tt_5_nm_3_q_no%2520mercy%2520in%2520the%2520kin"
           target="_blank"
         >
-          <img className="w-40 md:w-96 rounded-xl" src="./NMITKPoster.jpg" />
+          <img
+            className="w-40 md:w-96 rounded-xl"
+            loading="lazy"
+            src="./NMITKPoster.jpg"
+          />
         </motion.a>
         <div className="grid place-items-center">
           <div className="space-y-3 p-6">

@@ -10,7 +10,11 @@ function Contact() {
     >
       <div className="mx-auto max-w-screen-xl">
         <div className="flex justify-center">
-          <img className="w-64 md:w-96 rounded-xl" src="./jadalastpage.jpg" />
+          <img
+            className="w-64 md:w-96 rounded-xl"
+            loading="lazy"
+            src="./jadalastpage.jpg"
+          />
         </div>
 
         <div>
