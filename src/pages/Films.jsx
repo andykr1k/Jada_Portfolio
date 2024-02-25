@@ -31,7 +31,7 @@ function FilmSpotlight() {
                 className="absolute inset-0 flex justify-center items-center z-10 opacity-0 transition-opacity duration-300 bg-black bg-opacity-60 rounded-xl"
                 whileHover={{ opacity: 1 }}
               >
-                <h1 className="flex font-bold text-lg md:text-2xl text-white justify-center text-center">
+                <h1 className="flex font-bold text-lg md:text-2xl text-white justify-center text-center m-3 md:p-0">
                   {item.movieName}
                 </h1>
               </motion.div>

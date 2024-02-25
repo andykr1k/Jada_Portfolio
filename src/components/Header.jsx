@@ -1,5 +1,10 @@
-import { motion } from "framer-motion"
-import { AiOutlineLinkedin, AiOutlineInstagram, AiOutlineYoutube, AiOutlineClose } from "react-icons/ai";
+import { motion } from "framer-motion";
+import {
+  AiOutlineLinkedin,
+  AiOutlineInstagram,
+  AiOutlineYoutube,
+  AiOutlineClose,
+} from "react-icons/ai";
 
 function Header() {
   return (
@@ -22,41 +27,41 @@ function Header() {
               fillRule="evenodd"
               clipRule="evenodd"
               d="M4 5C3.44772 5 3 5.44772 3 6C3 6.55228 3.44772 7 4 7H20C20.5523 7 21 6.55228 21 6C21 5.44772 20.5523 5 20 5H4ZM7 12C7 11.4477 7.44772 11 8 11H20C20.5523 11 21 11.4477 21 12C21 12.5523 20.5523 13 20 13H8C7.44772 13 7 12.5523 7 12ZM13 18C13 17.4477 13.4477 17 14 17H20C20.5523 17 21 17.4477 21 18C21 18.5523 20.5523 19 20 19H14C13.4477 19 13 18.5523 13 18Z"
-              fill="#C7C7A6"
+              fill="#000000"
             />
           </motion.svg>
         </motion.label>
       </div>
       <div className="drawer-side">
         <label htmlFor="my-drawer-4" className="drawer-overlay"></label>
-        <ul className="menu p-4 w-80 md:w-120 space-y-2 max-h-120 bg-base-200 text-base-content rounded-lg">
+        <ul className="menu p-4 w-50 md:w-120 space-y-2 max-h-120 bg-base-200 text-base-content rounded-lg font-semibold">
           <li>
             <a className="text-lg md:text-xl" href="#about">
-              Jada Ganim
+              JADA GANIM
             </a>
           </li>
           <li>
             <a className="text-lg md:text-xl" href="#featured">
-              Featured
+              FEATURED
             </a>
           </li>
 
           <li>
             <a className="text-lg md:text-xl" href="#films">
-              Narrative
+              NARRATIVE
             </a>
           </li>
           <li>
             <a className="text-lg md:text-xl" href="#assisted">
-              Commercial
+              COMMERCIAL
             </a>
           </li>
           <li>
             <a className="text-lg md:text-xl" href="#contact">
-              Contact
+              CONTACT
             </a>
           </li>
-          <li className="grid grid-cols-3 max-h-10">
+          <li className="grid grid-cols-3">
             <a
               className="flex items-center justify-center"
               href="https://www.instagram.com/jadaganim"
@@ -85,4 +90,4 @@ function Header() {
   );
 }
 
-export default Header
+export default Header;
