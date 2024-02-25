@@ -6,7 +6,7 @@ function Contact() {
   return (
     <div
       id="contact"
-      className="grid place-items-center space-y-5 px-5 h-[100dvh]"
+      className="grid place-items-center space-y-5 px-5 h-[100vh]"
     >
       <div className="mx-auto max-w-screen-xl">
         <div className="flex justify-center">

@@ -10,7 +10,7 @@ function Featured() {
   return (
     <div
       id="featured"
-      className="grid place-content-center h-[100dvh] px-12 lg:px-24"
+      className="grid place-content-center h-[100vh] px-12 lg:px-24 bg-[#BB8A89]"
     >
       <div className="grid lg:grid-cols-2">
         <motion.a

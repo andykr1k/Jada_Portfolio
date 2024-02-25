@@ -3,36 +3,48 @@
     "movieName": "Can You Ever Forgive Me?",
     "movieEmbedURL": "https://www.youtube.com/embed/qQbgvxAUlcw",
     "movieImageName": "CYEFM.png",
-    "movieYTURL": "https://www.youtube.com/watch?v=qQbgvxAUlcw&ab_channel=JadaGanim"
+    "movieYTURL": "https://www.youtube.com/watch?v=qQbgvxAUlcw&ab_channel=JadaGanim",
+    "position": "Director • Editor",
+    "year": "2022"
   },
   {
     "movieName": "The Girl Who Cried Wolf",
     "movieURL": "https://www.youtube.com/embed/KE_BcgLUi58",
     "movieImageName": "TGWCW.png",
-    "movieYTURL": "https://www.youtube.com/watch?v=KE_BcgLUi58"
+    "movieYTURL": "https://www.youtube.com/watch?v=KE_BcgLUi58",
+    "position": "Writer • Director • Editor • DP",
+    "year": "2022"
   },
   {
     "movieName": "Loli and Momi",
     "movieURL": "",
     "movieImageName": "LoliMomi.jpg",
-    "movieYTURL": "https://www.imdb.com/title/tt30310899/?ref_=fn_al_tt_1"
+    "movieYTURL": "https://www.imdb.com/title/tt30310899/?ref_=fn_al_tt_1",
+    "position": "Producer • First Assistant Director",
+    "year": "2022"
   },
   {
     "movieName": "Sweet Dreams Of A California Summer",
     "movieEmbedURL": "https://www.youtube.com/embed/wolixDx71ws",
     "movieImageName": "SDOACS.png",
-    "movieYTURL": "https://www.youtube.com/watch?v=wolixDx71ws"
+    "movieYTURL": "https://www.youtube.com/watch?v=wolixDx71ws",
+    "position": "Writer • Director • Editor",
+    "year": "2021"
   },
   {
     "movieName": "The House On The Hill",
     "movieURL": "https://www.youtube.com/embed/LSjTJlUZkLY",
     "movieImageName": "HOTH.png",
-    "movieYTURL": "https://www.youtube.com/watch?v=LSjTJlUZkLY"
+    "movieYTURL": "https://www.youtube.com/watch?v=LSjTJlUZkLY",
+    "position": "Writer • Director • Editor • DP",
+    "year": "2021"
   },
   {
     "movieName": "Addicted",
     "movieURL": "https://www.youtube.com/embed/ET6b-BZxuJ4",
     "movieImageName": "addicted.png",
-    "movieYTURL": "https://www.youtube.com/watch?v=ET6b-BZxuJ4"
+    "movieYTURL": "https://www.youtube.com/watch?v=ET6b-BZxuJ4",
+    "position": "Writer • Director • Editor • DP",
+    "year": "2021"
   }
 ]

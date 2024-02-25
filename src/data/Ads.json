@@ -3,36 +3,54 @@
     "movieName": "Apple Airpods Pro (Spec)",
     "movieEmbedURL": "",
     "movieImageName": "AppleSpec.jpg",
-    "movieYTURL": "https://www.youtube.com/watch?v=uRjG42sw-TU&ab_channel=FutureMadeFilms"
+    "movieYTURL": "https://www.youtube.com/watch?v=uRjG42sw-TU&ab_channel=FutureMadeFilms",
+    "position": "Writer • Director",
+    "company": "FutureMade Films",
+    "year": "2023"
   },
   {
     "movieName": "Taylor Morrison: Real Talk",
     "movieEmbedURL": "",
     "movieImageName": "TayMo.png",
-    "movieYTURL": "https://youtu.be/TjeplyHAJRk"
+    "movieYTURL": "https://youtu.be/TjeplyHAJRk",
+    "position": "PA • Production Coordinator",
+    "company": "Media.Monks",
+    "year": "2023"
   },
   {
     "movieName": "Robo and Kala",
     "movieEmbedURL": "https://www.youtube.com/embed/QGh15N8Mxwc",
     "movieImageName": "robo.jpg",
-    "movieYTURL": "https://youtu.be/QGh15N8Mxwc"
+    "movieYTURL": "https://youtu.be/QGh15N8Mxwc",
+    "position": "Producer • First Assistant Director",
+    "company": "Feel Right Inc.",
+    "year": "2023"
   },
   {
     "movieName": "California Lottery: Lucha (SuperBowl 2024)",
     "movieEmbedURL": "",
     "movieImageName": "CALott.png",
-    "movieYTURL": "https://www.youtube.com/watch?v=ldH3eYIMTVo"
+    "movieYTURL": "https://www.youtube.com/watch?v=ldH3eYIMTVo",
+    "position": "Shadower",
+    "company": "Media.Monks",
+    "year": "2023"
   },
   {
     "movieName": "AMPM: Toomgis",
     "movieEmbedURL": "",
     "movieImageName": "toomgis.png",
-    "movieYTURL": "https://www.tiktok.com/@ampm_official/video/7334798401424543022"
+    "movieYTURL": "https://www.tiktok.com/@ampm_official/video/7334798401424543022",
+    "position": "Production Coordinator",
+    "company": "Media.Monks",
+    "year": "2024"
   },
   {
     "movieName": "Lenovo Legion Gaming",
     "movieEmbedURL": "",
     "movieImageName": "Legion.png",
-    "movieYTURL": "https://www.lenovo.com/us/en/d/deals/gaming/?cid=us:sem%7Cse%7Cgoogle%7Cbrand_lenovo_pc%7Claptop_gaming_intel%7Clenovo%20gaming%20pc%7Cb%7C65103464%7C148049195997%7Ckwd-6608505134%7Csearch%7C&gad_source=1"
+    "movieYTURL": "https://www.lenovo.com/us/en/d/deals/gaming/?cid=us:sem%7Cse%7Cgoogle%7Cbrand_lenovo_pc%7Claptop_gaming_intel%7Clenovo%20gaming%20pc%7Cb%7C65103464%7C148049195997%7Ckwd-6608505134%7Csearch%7C&gad_source=1",
+    "position": "Production Assistant",
+    "company": "Media.Monks",
+    "year": "2023"
   }
 ]

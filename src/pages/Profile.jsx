@@ -5,7 +5,7 @@ function Profile() {
   return (
     <div
       id="about"
-      className="grid place-content-center h-[100dvh] px-12 lg:px-24"
+      className="grid place-content-center h-[100vh] px-12 lg:px-24"
     >
       <div className="grid lg:grid-cols-2">
         <div className="flex justify-center">
