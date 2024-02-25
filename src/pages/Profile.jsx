@@ -25,14 +25,22 @@ function Profile() {
                 Co-Founder and Head of Production at FutureMade Films{" "}
               </h2>
             </div>
-            <h3 className="flex items-center text-sm md:text-lg text-center">
+            <h3 className="items-center text-sm md:text-lg text-center">
               Having grown up using movies as a place to feel seen and less
               alone, I have developed a want to share diverse stories of people
               who come from all walks of life through their own experiences,
               dreams, culture and history. I am a passionate individual seeking
               opportunities that will advance my knowledge for film and my
               network of other talented people. I am currently studying in an
-              online MFA screenwriting program at Emerson College.
+              online MFA screenwriting program at Emerson College. I recently co-founded&nbsp;
+              <a
+                className="underline"
+                href="https://www.futuremadefilms.com/"
+                target="_blank"
+              >
+                FutureMade Films
+              </a>
+              , an independent production company based in Los Angeles, CA.
             </h3>
           </div>
         </div>
