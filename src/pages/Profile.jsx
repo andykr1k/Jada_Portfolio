@@ -10,22 +10,22 @@ function Profile() {
       <div className="grid lg:grid-cols-2">
         <div className="flex justify-center">
           <img
-            className="w-40 md:w-96 rounded-xl"
+            className="w-44 md:w-96 rounded-xl"
             loading="lazy"
             src="./jadaPic.jpg"
           />
         </div>
         <div className="grid place-items-center">
           <div className="space-y-3 p-6">
-            <h1 className="flex justify-center text-center text-xl md:text-3xl font-bold">
+            <h1 className="flex justify-center text-center text-2xl md:text-3xl font-bold">
               Jada Ganim
             </h1>
             <div className="flex justify-center text-center space-x-3">
-              <h2 className="text-md md:text-xl font-semibold">
+              <h2 className="text-lg md:text-xl font-semibold">
                 Co-Founder and Head of Production at FutureMade Films{" "}
               </h2>
             </div>
-            <h3 className="flex items-center text-xs md:text-lg text-center">
+            <h3 className="flex items-center text-sm md:text-lg text-center">
               Having grown up using movies as a place to feel seen and less
               alone, I have developed a want to share diverse stories of people
               who come from all walks of life through their own experiences,

@@ -20,17 +20,17 @@ function Featured() {
           target="_blank"
         >
           <img
-            className="w-40 md:w-96 rounded-xl"
+            className="w-44 md:w-96 rounded-xl"
             loading="lazy"
             src="./NMITKPoster.jpg"
           />
         </motion.a>
         <div className="grid place-items-center">
           <div className="space-y-3 p-6">
-            <h1 className="flex justify-center text-center text-xl md:text-3xl font-bold">
+            <h1 className="flex justify-center text-center text-2xl md:text-3xl font-bold">
               No Mercy In The Kingdom
             </h1>
-            <h2 className="flex justify-center text-center text-xl md:text-xl font-bold">
+            <h2 className="flex justify-center text-center text-xl md:text-xl font-semibold">
               COMING SOON
             </h2>
             <div className="flex justify-center text-center space-x-3">
@@ -38,7 +38,7 @@ function Featured() {
                 Written & Directed By Jada Ganim
               </h3>
             </div>
-            <h3 className="flex items-center text-xs md:text-lg text-center">
+            <h3 className="flex items-center text-md md:text-lg text-center">
               Two weeks before opening, a film director is hired to direct a
               play about the 17th century New England witch trials. Her
               directing approach begins to cross the line of ethics when tension
